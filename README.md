@@ -3,4 +3,6 @@
 
 Created for Intro to git and github from fredhutch.io
 
-Example rep for demo purposes
+Example repo for demo purposes
+
+results.txt includes info about wacky idea
