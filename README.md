@@ -5,4 +5,6 @@ Created for Intro to git and github from fredhutch.io
 
 Example repo for demo purposes
 
-results.txt includes info about wacky idea
+- analysis.txt includes info about stats analysis
+- notes.txt has info about project
+- results.txt includes info about wacky idea
